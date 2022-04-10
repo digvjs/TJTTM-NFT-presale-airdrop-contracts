@@ -1,4 +1,4 @@
-# Tigers Journey To The Moon NFT Smart Contract
+# TJTTM NFT Smart Contract
 
 ### Pre-requisites
 
